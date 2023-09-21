@@ -1,0 +1,55 @@
+Starting Pile: 505
+Computer Goes First
+Advanced Mode
+Computer's Turn
+Max Value To Remove From Pile 252
+Computer Removes 250 marbles. Remaining Marbles: 255
+Vincents Turn:
+Max Value To Remove From Pile 127
+Error: Out Of Range
+Vincents Turn:
+Max Value To Remove From Pile 127
+Vincent Removes 127 marbles. Remaining Marbles 128
+Computer's Turn
+Max Value To Remove From Pile 64
+Computer Removes 1 marbles. Remaining Marbles: 127
+Vincents Turn:
+Max Value To Remove From Pile 63
+Vincent Removes 63 marbles. Remaining Marbles 64
+Computer's Turn
+Max Value To Remove From Pile 32
+Computer Removes 1 marbles. Remaining Marbles: 63
+Vincents Turn:
+Max Value To Remove From Pile 31
+Vincent Removes 31 marbles. Remaining Marbles 32
+Computer's Turn
+Max Value To Remove From Pile 16
+Computer Removes 1 marbles. Remaining Marbles: 31
+Vincents Turn:
+Max Value To Remove From Pile 15
+Vincent Removes 15 marbles. Remaining Marbles 16
+Computer's Turn
+Max Value To Remove From Pile 8
+Computer Removes 1 marbles. Remaining Marbles: 15
+Vincents Turn:
+Max Value To Remove From Pile 7
+Vincent Removes 7 marbles. Remaining Marbles 8
+Computer's Turn
+Max Value To Remove From Pile 4
+Computer Removes 1 marbles. Remaining Marbles: 7
+Vincents Turn:
+Max Value To Remove From Pile 3
+Vincent Removes 3 marbles. Remaining Marbles 4
+Computer's Turn
+Max Value To Remove From Pile 2
+Computer Removes 1 marbles. Remaining Marbles: 3
+Vincents Turn:
+Max Value To Remove From Pile 1
+Vincent Removes 1 marbles. Remaining Marbles 2
+Computer's Turn
+Max Value To Remove From Pile 1
+Computer Removes 1 marbles. Remaining Marbles: 1
+Vincents Turn:
+Max Value To Remove From Pile 1
+Vincent Removes 1 marbles. Remaining Marbles 0
+COMPUTER WINS!
